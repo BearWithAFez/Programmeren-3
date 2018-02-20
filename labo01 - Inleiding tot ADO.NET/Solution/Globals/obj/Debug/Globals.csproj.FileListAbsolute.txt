@@ -1,0 +1,12 @@
+C:\Users\dwigh\Desktop\LABO1\Labo1\Globals\bin\Debug\Globals.dll
+C:\Users\dwigh\Desktop\LABO1\Labo1\Globals\bin\Debug\Globals.pdb
+C:\Users\dwigh\Desktop\LABO1\Labo1\Globals\obj\Debug\Globals.csprojResolveAssemblyReference.cache
+C:\Users\dwigh\Desktop\LABO1\Labo1\Globals\obj\Debug\Globals.csproj.CoreCompileInputs.cache
+C:\Users\dwigh\Desktop\LABO1\Labo1\Globals\obj\Debug\Globals.dll
+C:\Users\dwigh\Desktop\LABO1\Labo1\Globals\obj\Debug\Globals.pdb
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\Globals\bin\Debug\Globals.dll
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\Globals\bin\Debug\Globals.pdb
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\Globals\obj\Debug\Globals.csprojResolveAssemblyReference.cache
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\Globals\obj\Debug\Globals.csproj.CoreCompileInputs.cache
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\Globals\obj\Debug\Globals.dll
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\Globals\obj\Debug\Globals.pdb

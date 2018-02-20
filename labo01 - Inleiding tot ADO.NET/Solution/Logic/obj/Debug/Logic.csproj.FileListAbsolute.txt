@@ -1,0 +1,24 @@
+C:\Users\dwigh\Desktop\LABO1\Labo1\Logic\bin\Debug\Logic.dll
+C:\Users\dwigh\Desktop\LABO1\Labo1\Logic\bin\Debug\Logic.pdb
+C:\Users\dwigh\Desktop\LABO1\Labo1\Logic\bin\Debug\Data.dll
+C:\Users\dwigh\Desktop\LABO1\Labo1\Logic\bin\Debug\Globals.dll
+C:\Users\dwigh\Desktop\LABO1\Labo1\Logic\bin\Debug\Data.pdb
+C:\Users\dwigh\Desktop\LABO1\Labo1\Logic\bin\Debug\Globals.pdb
+C:\Users\dwigh\Desktop\LABO1\Labo1\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\dwigh\Desktop\LABO1\Labo1\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\dwigh\Desktop\LABO1\Labo1\Logic\obj\Debug\Logic.dll
+C:\Users\dwigh\Desktop\LABO1\Labo1\Logic\obj\Debug\Logic.pdb
+C:\Users\dwigh\Desktop\LABO1\Labo1\Logic\bin\Debug\MySql.Data.dll
+C:\Users\dwigh\Desktop\LABO1\Labo1\Logic\bin\Debug\MySql.Data.xml
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\Logic\bin\Debug\Logic.dll
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\Logic\bin\Debug\Logic.pdb
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\Logic\bin\Debug\Data.dll
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\Logic\bin\Debug\Globals.dll
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\Logic\bin\Debug\MySql.Data.dll
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\Logic\bin\Debug\Data.pdb
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\Logic\bin\Debug\Globals.pdb
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\Logic\bin\Debug\MySql.Data.xml
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\Logic\obj\Debug\Logic.dll
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\Logic\obj\Debug\Logic.pdb

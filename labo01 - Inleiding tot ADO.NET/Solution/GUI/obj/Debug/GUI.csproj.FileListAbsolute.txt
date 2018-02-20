@@ -1,0 +1,36 @@
+C:\Users\dwigh\Desktop\LABO1\Labo1\GUI\bin\Debug\GUI.exe.config
+C:\Users\dwigh\Desktop\LABO1\Labo1\GUI\bin\Debug\GUI.exe
+C:\Users\dwigh\Desktop\LABO1\Labo1\GUI\bin\Debug\GUI.pdb
+C:\Users\dwigh\Desktop\LABO1\Labo1\GUI\bin\Debug\Globals.dll
+C:\Users\dwigh\Desktop\LABO1\Labo1\GUI\bin\Debug\Logic.dll
+C:\Users\dwigh\Desktop\LABO1\Labo1\GUI\bin\Debug\Data.dll
+C:\Users\dwigh\Desktop\LABO1\Labo1\GUI\bin\Debug\Globals.pdb
+C:\Users\dwigh\Desktop\LABO1\Labo1\GUI\bin\Debug\Logic.pdb
+C:\Users\dwigh\Desktop\LABO1\Labo1\GUI\bin\Debug\Data.pdb
+C:\Users\dwigh\Desktop\LABO1\Labo1\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\dwigh\Desktop\LABO1\Labo1\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\dwigh\Desktop\LABO1\Labo1\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\dwigh\Desktop\LABO1\Labo1\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\dwigh\Desktop\LABO1\Labo1\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\dwigh\Desktop\LABO1\Labo1\GUI\obj\Debug\GUI.exe
+C:\Users\dwigh\Desktop\LABO1\Labo1\GUI\obj\Debug\GUI.pdb
+C:\Users\dwigh\Desktop\LABO1\Labo1\GUI\bin\Debug\MySql.Data.dll
+C:\Users\dwigh\Desktop\LABO1\Labo1\GUI\bin\Debug\MySql.Data.xml
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\GUI\bin\Debug\GUI.exe.config
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\GUI\bin\Debug\GUI.exe
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\GUI\bin\Debug\GUI.pdb
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\GUI\bin\Debug\Globals.dll
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\GUI\bin\Debug\Logic.dll
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\GUI\bin\Debug\Data.dll
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\GUI\bin\Debug\MySql.Data.dll
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\GUI\bin\Debug\Globals.pdb
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\GUI\bin\Debug\Logic.pdb
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\GUI\bin\Debug\Data.pdb
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\GUI\bin\Debug\MySql.Data.xml
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\GUI\obj\Debug\GUI.exe
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\GUI\obj\Debug\GUI.pdb

@@ -1,0 +1,26 @@
+C:\Users\dwigh\Desktop\LABO1\Labo1\Data\bin\Debug\Data.dll
+C:\Users\dwigh\Desktop\LABO1\Labo1\Data\bin\Debug\Data.pdb
+C:\Users\dwigh\Desktop\LABO1\Labo1\Data\bin\Debug\Globals.dll
+C:\Users\dwigh\Desktop\LABO1\Labo1\Data\bin\Debug\System.Buffers.dll
+C:\Users\dwigh\Desktop\LABO1\Labo1\Data\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dwigh\Desktop\LABO1\Labo1\Data\bin\Debug\Globals.pdb
+C:\Users\dwigh\Desktop\LABO1\Labo1\Data\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dwigh\Desktop\LABO1\Labo1\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\dwigh\Desktop\LABO1\Labo1\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\dwigh\Desktop\LABO1\Labo1\Data\obj\Debug\Data.dll
+C:\Users\dwigh\Desktop\LABO1\Labo1\Data\obj\Debug\Data.pdb
+C:\Users\dwigh\Desktop\LABO1\Labo1\Data\bin\Debug\MySql.Data.dll
+C:\Users\dwigh\Desktop\LABO1\Labo1\Data\bin\Debug\MySql.Data.xml
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\Data\bin\Debug\Data.dll
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\Data\bin\Debug\Data.pdb
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\Data\bin\Debug\Globals.dll
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\Data\bin\Debug\MySql.Data.dll
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\Data\bin\Debug\System.Buffers.dll
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\Data\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\Data\bin\Debug\Globals.pdb
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\Data\bin\Debug\MySql.Data.xml
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\Data\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\Data\obj\Debug\Data.dll
+C:\Users\dwigh\Desktop\1718_CSProgTech_VanderVelpenDwight\labo01 - Inleiding tot ADO.NET\Solution\Data\obj\Debug\Data.pdb
